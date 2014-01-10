@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+
+  "name": "Hostel 9",
+  "description": "Mess Menu of Hostel 9, IITB and CMS for hostel inmates",
+  "version": "1.0.5",
+
+  "author":"Dheerendra Singh Rathor",
+  "homepage_url":"http://gymkhana.iitb.ac.in/~hostel9/",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "update_url": "http://gymkhana.iitb.ac.in/~hostel9/extension/update.xml",
+  "icons": {
+           "48": "icon48.png",
+          "128": "icon128.png" },
+  "permissions": [
+    "http://gymkhana.iitb.ac.in/~hostel9/"
+  ]
+ }
