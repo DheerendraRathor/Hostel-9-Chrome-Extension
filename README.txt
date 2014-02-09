@@ -1,6 +1,6 @@
 Hostel-9-Chrome-Extension
 =========================
-
+Main Language: JavaScript
 This is a chrome extension built for Mess Menu and Complaint Management System in Hostel 9, IIT Bombay.
 Directory Structure:
 *
